@@ -30,8 +30,8 @@ janji : Saya Vegatama Firdiady mengerjakan TP2 dalam mata kuliah DPBO untuk kebe
 
 #### tambah bidang divisi
 
-![Alt text](https://github.com/vegatama/TP2DPBO2022/blob/main/hasil%20screenshoot/bdivisi.png(?raw=true "Title")
+![Alt text](https://github.com/vegatama/TP2DPBO2022/blob/main/hasil%20screenshoot/bdivisi.png?raw=true "Title")
 
-#### hasill tambah bidang divisi
+#### hasil tambah bidang divisi
 
 ![Alt text](https://github.com/vegatama/TP2DPBO2022/blob/main/hasil%20screenshoot/bdivisiadd.png?raw=true "Title")
